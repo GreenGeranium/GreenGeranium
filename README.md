@@ -35,7 +35,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/GreenGeranium/GreenGeranium/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
