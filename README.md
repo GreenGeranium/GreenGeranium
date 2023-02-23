@@ -1,8 +1,12 @@
-<h2 align="left">Hi 👋! My name is Max and I'm a passionate frontend developer from Russia</h2>
+<h2 align="left">Всем привет! 👋 Меня зовут Максим<br>Я начинающий Frontend  разработчик из России</h2>
 
 ###
 
-<p align="left">🌱 I’m currently learning Web development course from Yandex Practicum<br><br>📫 How to reach me grassimacsim@yandex.ru<br><br>⚡ Fun fact I play the accordion and the harmonica</p>
+<p align="left">🌱 В данный момент я учусь на курсе "Веб-разработка" от Яндекс Практикума<br><br>🧩Хочу писать чистый читабельный код<br><br>🏹Осваиваю новые фреймворки: React.js, Node.js<br><br>🎯 Хочу работать с опытными коллегами<br><br>📫 Как связаться со мной: grassimacsim@yandex.ru<br><br>⚡ Забавный факт: Я играю на аккордеоне и губной гармошке</p>
+
+###
+
+<h2 align="left">Моя статистика:</h2>
 
 ###
 
@@ -10,6 +14,10 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=GreenGeranium" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=GreenGeranium" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="left">Мой стек:</h2>
 
 ###
 
@@ -33,25 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" width="42" alt="slack logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="30" width="42" alt="codepen logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-
-###
-
-<div align="left">
-  <a href="https://codepen.io/greengeranium" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  </a>
-  <a href="AstroMaximus#1799" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://t.me/geranius" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
 </div>
 
 ###
