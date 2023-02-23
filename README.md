@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">🌱 I’m currently learning Web development course from Yandex Practicum<br><br>📫 How to reach me grassimacsim@yandex.ru<br><br>⚡ Fun fact I play the accordion and the harmonica</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=GreenGeranium" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=GreenGeranium" height="150" alt="languages graph"  />
@@ -35,10 +39,17 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/GreenGeranium/GreenGeranium/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="left">
+  <a href="https://codepen.io/greengeranium" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  </a>
+  <a href="AstroMaximus#1799" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
   <a href="https://t.me/geranius" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
